@@ -1,0 +1,11 @@
+.navbar {
+    display: flex;
+    background-color: #6D86A0;
+  }
+  
+  .navbar > div {
+    background-color: #6D86A0;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
