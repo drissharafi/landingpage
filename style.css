@@ -1,11 +1,155 @@
+*{margin: 0; padding:0;}
 .navbar {
-    display: flex;
-    background-color: #6D86A0;
+  /*display: flex;*/
+  background-color: #021120;
+  
+
+}
+
+
+.navbar > div {
+  background-color: #021120;
+  margin: 10px;
+  padding: 10px;
+  font-size: 20px;
+  color: antiquewhite;
+}
+.logo {
+  background: url('./image/logo.png') 50% / cover no-repeat;
+  width: 3.9rem;
+  height: 2.6rem;
+}
+.navbar .btn-rejoindre {
+  margin-left: auto; 
+  background-color:#FFD700;
+  border-radius: 1rem;
+  padding: 10px 10px 10px;
+
+
+}
+
+.hero-section {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  
+}
+
+
+.button-overlay {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color:#FFD700;
+  border-radius: 1rem;
+
+}
+.hero-section .btn{
+  color: rgb(250, 249, 247);
+  background-color:#FFD700;
+  font-size: 20px;
+  padding: 25px 50px 25px;
+  border-radius: 1rem;
+
+}
+.text-overlay {
+  position: absolute;
+  top: 15%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px;
+ 
+}
+
+.text-overlay p {
+  text-align:start;
+  color: rgb(238, 217, 190);
+  font-size: xx-large;
+}
+.why-riz-9-bank{
+  font-size: xx-large;
+}
+
+
+.middle-image-container {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.width-nav{
+  height: 5,5rem;
+}
+/* desktop 
+@media screen and (min-width: 1024px) {
+  .navbar {
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .navbar > div {
+    margin: 0;
+    padding: 15px;
+  }
+
+  .navbar .btn-rejoindre {
+    padding: 10px 20px;
+  }
+
+  .hero-section .btn {
+    padding: 30px 60px;
+    font-size: 24px;
+  }
+}
+/* tablets 
+@media screen and (max-width: 1023px) {
+  .navbar {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .navbar > div {
+    margin: 5px;
+    padding: 5px;
+    font-size: 16px;
+  }
+
+  .navbar .btn-rejoindre {
+    margin-left: 0;
+    margin-top: 10px;
+    padding: 8px 15px;
+    font-size: 16px;
+  }
+
+  .hero-section .btn {
+    padding: 20px 40px;
+    font-size: 18px;
+  }
+}
+
+/*  mobile 
+@media screen and (max-width: 767px) {
+  .navbar > div {
+    font-size: 14px;
+  }
+
+  .navbar .btn-rejoindre {
+    padding: 6px 12px;
+    font-size: 14px;
+  }
+
+  .hero-section .btn {
+    padding: 5px 12px;
+    font-size: 12px;
+  }
+  .text-overlay p {
+    text-align:start;
+    color: rgb(238, 217, 190);
+    font-size: 16px;
+  }
+  .logo{
+    margin-right: auto;
   }
   
-  .navbar > div {
-    background-color: #6D86A0;
-    margin: 10px;
-    padding: 20px;
-    font-size: 30px;
-  }
+}*/

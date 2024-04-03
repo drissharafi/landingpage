@@ -1,0 +1,887 @@
+.mobile {
+    box-shadow: 0rem 0.3rem 0.3rem 0rem rgba(0, 0, 0, 0.25), 0rem 0.3rem 0.3rem 0rem rgba(0, 0, 0, 0.25);
+    background: #FFFFFF content-box, linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(#000000, #000000) border-box;
+    border: 0.1rem solid transparent;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 0.3rem;
+    box-sizing: border-box;
+  }
+  .mobile .frame-41 {
+    background: url('./image/iR.jpeg') 50% / cover no-repeat;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1.1rem 2.3rem 7.9rem 0.7rem;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .mobile .group-8 {
+    margin: 0 0 9.7rem 2.2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .mobile .frame-4 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .mobile .money-for-here-there-and-everywhere {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto Condensed';
+    font-style: italic;
+    font-weight: 300;
+    font-size: 2rem;
+    color: #FFFFFF;
+  }
+  .mobile .green-bank-crisis-recession-flyer-31 {
+    background: url('../assets/images/greenBankCrisisRecessionFlyer31.png') 50% / cover no-repeat;
+    transform: rotate(-27.621deg);
+    position: absolute;
+    left: 50%;
+    bottom: -9.2rem;
+    translate: -50% 0;
+    width: 10.2rem;
+    height: 9.1rem;
+  }
+  .mobile .frame-5 {
+    border-radius: 1.6rem;
+    background: #6D86A0;
+    margin-left: 1.1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0.7rem 1.2rem 0.6rem 1.2rem;
+    box-sizing: border-box;
+  }
+  .mobile .dcouvrez-nos-offres {
+    overflow-wrap: break-word;
+    font-family: 'Roboto Flex';
+    font-weight: 600;
+    font-size: 1rem;
+    color: #FFFFFF;
+  }
+  .mobile .frame-2 {
+    margin-bottom: 6.4rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .mobile .frame-3 {
+    border-radius: 1.6rem;
+    background: rgba(255, 215, 0, 0.72);
+    margin-right: 1.7rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0.5rem 0.9rem 0.6rem 1.2rem;
+    box-sizing: border-box;
+  }
+  .mobile .contact-us {
+    overflow-wrap: break-word;
+    font-family: 'Roboto Slab';
+    font-weight: 300;
+    font-size: 0.9rem;
+    color: #FFFFFF;
+  }
+  .mobile .group-6 {
+    margin: 0.4rem 0 0.2rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1.9rem;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .mobile .line-1 {
+    background: #FFFFFF;
+    margin: 0 0rem 0.5rem 0;
+    width: 1.9rem;
+    height: 0.2rem;
+  }
+  .mobile .line-3 {
+    background: #FFFFFF;
+    margin: 0 0rem 0.5rem 0;
+    width: 1.9rem;
+    height: 0.2rem;
+  }
+  .mobile .line-4 {
+    background: #FFFFFF;
+    margin-left: 0.1rem;
+    width: 1.9rem;
+    height: 0.2rem;
+  }
+  .mobile .group-7 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 3.9rem;
+    height: 2.6rem;
+    box-sizing: border-box;
+  }
+  .mobile .black-and-white-minimalist-professional-initial-logo-121 {
+    background: url('./image/logo.png') 50% / cover no-repeat;
+    width: 3.9rem;
+    height: 2.6rem;
+  }
+  .mobile .frame-8 {
+    background: #061728;
+    margin-bottom: 1.4rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3.3rem 0 6rem 0;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .mobile .frame-6 {
+    background: #061728;
+    position: relative;
+    margin-bottom: 8.2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 1.2rem 1rem 35.8rem 1.3rem;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .mobile .why-riz-9-bank {
+    margin: 0 3.5rem 4.3rem 0;
+    align-self: center;
+    overflow-wrap: break-word;
+    font-family: 'Ropa Sans';
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: #FFFFFF;
+  }
+  .why-riz-9-bank {
+    font-family: 'Ropa Sans';
+    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 1.333;
+  }
+  .why-riz-9-bank-sub3 {
+    font-family: 'Ropa Sans';
+    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 1.333;
+    color: #6C87A2;
+  }
+  .why-riz-9-bank-sub4 {
+    font-family: 'Ropa Sans';
+    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 1.333;
+  }
+  .mobile .group-9 {
+    margin: 0 0.9rem 7.1rem 0.9rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .mobile .frame-7 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .mobile .black-and-white-minimalist-professional-initial-logo-13-removebg-preview-1 {
+    background: url('../assets/images/blackAndWhiteMinimalistProfessionalInitialLogo13RemovebgPreview1.png') 50% / cover no-repeat;
+    position: absolute;
+    left: -7.2rem;
+    top: 0.6rem;
+    width: 7.2rem;
+    height: 5.1rem;
+  }
+  .mobile .premium-card {
+    margin: 0 0.1rem 1.3rem 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Roboto Slab';
+    font-weight: 600;
+    font-size: 1.3rem;
+    color: #FFFFFF;
+  }
+  .mobile .increase-authorization-rates-optimize-your-checkout-conversion {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto Slab';
+    font-weight: 200;
+    font-size: 1rem;
+    color: #FFFFFF;
+  }
+  .mobile .group-10 {
+    margin: 0 0.4rem 9.7rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: calc(100% - 0.4rem);
+    box-sizing: border-box;
+  }
+  .mobile .container {
+    background: url('../assets/images/image2.png') 50% / cover no-repeat;
+    margin: 0.6rem 0.3rem 0 0;
+    height: 5.8rem;
+    flex-grow: 1;
+    flex-basis: 7.2rem;
+  }
+  .mobile .premium-card-1 {
+    margin: 0 1.6rem 1.1rem 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Roboto Slab';
+    font-weight: 600;
+    font-size: 1rem;
+    color: #FFFFFF;
+  }
+  .mobile .increase-authorization-rates-optimize-your-checkout-conversion-1 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto Slab';
+    font-weight: 200;
+    font-size: 1rem;
+    color: #FFFFFF;
+  }
+  .mobile .group-11 {
+    margin-left: 0rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: calc(100% - 0rem);
+    box-sizing: border-box;
+  }
+  .mobile .premium-card-2 {
+    margin: 0 0 1.4rem 1.1rem;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Roboto Slab';
+    font-weight: 600;
+    font-size: 1rem;
+    color: #FFFFFF;
+  }
+  .mobile .increase-authorization-rates-optimize-your-checkout-conversion-2 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto Slab';
+    font-weight: 200;
+    font-size: 1rem;
+    color: #FFFFFF;
+  }
+  .mobile .black-and-white-minimalist-professional-initial-logo-141 {
+    background: url('../assets/images/blackAndWhiteMinimalistProfessionalInitialLogo141.png') 50% / cover no-repeat;
+    margin-right: 0.6rem;
+    height: 8rem;
+    flex-grow: 1;
+    flex-basis: 7.3rem;
+  }
+  .mobile .frame-10 {
+    box-shadow: 0rem 0.3rem 0.3rem 0rem rgba(0, 0, 0, 0.25);
+    position: absolute;
+    left: 2.1rem;
+    right: 1.1rem;
+    bottom: -5.1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3.7rem 0.9rem 0 0.4rem;
+    height: 39rem;
+    box-sizing: border-box;
+  }
+  .mobile .frame-11 {
+    margin: 0 1.3rem 3.8rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .mobile .advantages {
+    overflow-wrap: break-word;
+    font-family: 'Ropa Sans';
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: #FFFFFF;
+  }
+  .mobile .black-and-white-minimalist-professional-initial-logo-171 {
+    background: url('../assets/images/blackAndWhiteMinimalistProfessionalInitialLogo171.png') 50% / cover no-repeat;
+    position: absolute;
+    left: 0rem;
+    top: 50%;
+    right: 1.1rem;
+    translate: 0 -50%;
+    height: 22.8rem;
+  }
+  .mobile .join-riz-9-today-and-experience-banking-reinvented-seamlessly-secure-incredibly-convenient-at-riz-9-your-financial-future-starts-here-explore-limitless-possibilities-enjoy-unmatched-convenience-redefine-your-banking-experience-with-riz-9-where-tradition-meets-technology-where-your-needs-come-first-choose-riz-9-for-banking-that-adapts-to-your-lifestyle-fast-flexible-and-always-on-your-terms-experience-the-next-generation-of-banking-with-riz-9-your-gateway-to-asmarter-simpler-financial {
+    position: relative;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1rem;
+    color: #FFFFFF;
+  }
+  .mobile .frame-14 {
+    background: #B9A436;
+    position: absolute;
+    right: -21.8rem;
+    bottom: -43.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 2rem 1.3rem 1.6rem 1.9rem;
+    height: 6rem;
+    box-sizing: border-box;
+  }
+  .mobile .join-the-waite-list {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 2rem;
+    color: #FFFFFF;
+  }
+  .mobile .frame-28 {
+    border-radius: 1.6rem;
+    margin-left: 0.6rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .mobile .frame-29 {
+    margin: 0 2.8rem 2.7rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .mobile .join-our-waiting-list {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1.3rem;
+    color: #FFFFFF;
+  }
+  .mobile .frame-30 {
+    margin: 0 0.4rem 1.9rem 0.1rem;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .mobile .name {
+    margin: 0 0rem 1rem 0rem;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1.3rem;
+    color: #FFFFFF;
+  }
+  .name {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1.3rem;
+    line-height: 1.333;
+    color: #960C0C;
+  }
+  .name-sub3 {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1.3rem;
+    line-height: 1.333;
+  }
+  .mobile .frame-31 {
+    border-radius: 1.6rem;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0.6rem 1.2rem 0.7rem 0;
+    width: 15.8rem;
+    box-sizing: border-box;
+  }
+  .mobile .enter-your-name {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1rem;
+    color: #938686;
+  }
+  .mobile .frame-311 {
+    margin: 0 0 2.6rem 0.5rem;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .mobile .phone-number {
+    margin: 0 0rem 1.3rem 0rem;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1.3rem;
+    color: #FFFFFF;
+  }
+  .phone-number {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1.3rem;
+    line-height: 1.333;
+    color: #960C0C;
+  }
+  .phone-number-sub3 {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1.3rem;
+    line-height: 1.333;
+  }
+  .mobile .frame-312 {
+    border-radius: 1.6rem;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0.7rem 2.4rem 0.6rem 0;
+    width: 15.8rem;
+    box-sizing: border-box;
+  }
+  .mobile .container-1 {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1rem;
+    color: #938686;
+  }
+  .mobile .frame-32 {
+    margin: 0 0.3rem 3.3rem 0;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .email {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1.3rem;
+    line-height: 1.333;
+  }
+  .email-sub2 {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1.3rem;
+    line-height: 1.333;
+    color: #960C0C;
+  }
+  .email-sub3 {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1.3rem;
+    line-height: 1.333;
+  }
+  .mobile .email {
+    margin-bottom: 0.5rem;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1.3rem;
+    color: #FFFFFF;
+  }
+  .mobile .frame-313 {
+    border-radius: 1.6rem;
+    background: #FFFFFF;
+    margin-left: 0.2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0.7rem 3.1rem 0.7rem 0;
+    width: 15.8rem;
+    box-sizing: border-box;
+  }
+  .mobile .exemplegmail-com {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1rem;
+    color: #938686;
+  }
+  .mobile .frame-33 {
+    border-radius: 1.6rem;
+    background: #B9A436;
+    margin-right: 1.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0.8rem 0.9rem 0.9rem 0;
+    width: 10.4rem;
+    box-sizing: border-box;
+  }
+  .mobile .send {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: #FFFFFF;
+  }
+  .mobile .frame-13 {
+    border: 0.2rem solid #6C87A2;
+    margin: 0 1.3rem 6.3rem 1.1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2.2rem 2rem 5rem 2rem;
+    width: calc(100% - 2.4rem);
+    box-sizing: border-box;
+  }
+  .mobile .comfty {
+    margin: 0 0 2.2rem 0.8rem;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Roboto Flex';
+    font-weight: 300;
+    font-size: 1.3rem;
+    color: #FFFFFF;
+  }
+  .mobile .enjoy-afree-offer-with-no-income-conditions {
+    margin: 0 0 3.8rem 0.2rem;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto Flex';
+    font-weight: 400;
+    font-size: 1.3rem;
+    color: #FFFFFF;
+  }
+  .mobile .subject-to-making-at-least-one-payment-or-withdrawal-per-month-with-the-comfy-card-otherwise-3-per-month {
+    align-self: flex-end;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto Flex';
+    font-weight: 100;
+    font-size: 1rem;
+    color: #FFFFFF;
+  }
+  .mobile .container-2 {
+    background: url('../assets/images/image4.png') 50% / cover no-repeat;
+    margin: 0 1.1rem 2.9rem 0;
+    width: 10.3rem;
+    height: 6.8rem;
+  }
+  .mobile .frame-38 {
+    margin: 0 1.7rem 13.1rem 2rem;
+    display: flex;
+    flex-direction: column;
+    width: calc(100% - 3.7rem);
+    box-sizing: border-box;
+  }
+  .mobile .frame-40 {
+    transform: rotate(90.307deg);
+    margin: 0 1.8rem 0.2rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: fit-content;
+    flex-grow: 1;
+    flex-basis: 5.7rem;
+    box-sizing: border-box;
+  }
+  .mobile .whats-app-image-20240328-at-14391 {
+    background: url('../assets/images/whatsAppImage20240328At14391.png') 50% / cover no-repeat;
+    transform: rotate(-90.307deg);
+    margin: 0 0 5rem 0.8rem;
+    width: 4.9rem;
+    height: 5.4rem;
+  }
+  .mobile .whats-app-image-20240328-at-14392 {
+    background: url('../assets/images/whatsAppImage20240328At14392.png') 50% / cover no-repeat;
+    transform: rotate(-90.307deg);
+    margin: 0 0.8rem 5.7rem 0;
+    width: 4.9rem;
+    height: 4.7rem;
+  }
+  .mobile .whats-app-image-20240328-at-14393 {
+    background: url('../assets/images/whatsAppImage20240328At14393.png') 50% / cover no-repeat;
+    transform: rotate(-90.307deg);
+    margin-right: 0.6rem;
+    width: 5.1rem;
+    height: 5.3rem;
+  }
+  .mobile .frame-39 {
+    position: relative;
+    margin: 0 1.8rem 3.1rem 1.8rem;
+    align-self: flex-start;
+    width: 12.6rem;
+    height: 4.1rem;
+  }
+  .mobile .our-three-principles {
+    position: absolute;
+    right: -0.4rem;
+    bottom: 0.5rem;
+    overflow-wrap: break-word;
+    font-family: 'Figma Hand', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 1.3rem;
+    color: rgba(255, 215, 0, 0.81);
+  }
+  .mobile .frame-47 {
+    margin-top: 1.2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 1;
+    flex-basis: 12.2rem;
+    box-sizing: border-box;
+  }
+  .mobile .in-order-to-secure-your-data-and-guard-against-the-risk-of-fraud-ri-z-9-has-implemented-cutting-edge-technologies-for-biometric-identity-verification-and-end-to-end-encryption {
+    margin: 0 0.2rem 4.9rem 0;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto Flex';
+    font-weight: 500;
+    font-size: 0.8rem;
+    color: #FFFFFF;
+  }
+  .mobile .in-order-to-secure-your-data-and-guard-against-the-risk-of-fraud-ri-z-9-has-implemented-cutting-edge-technologies-for-biometric-identity-verification-and-end-to-end-encryption-1 {
+    margin: 0 0 4.6rem 0.2rem;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto Flex';
+    font-weight: 500;
+    font-size: 0.8rem;
+    color: #FFFFFF;
+  }
+  .mobile .in-order-to-secure-your-data-and-guard-against-the-risk-of-fraud-ri-z-9-has-implemented-cutting-edge-technologies-for-biometric-identity-verification-and-end-to-end-encryption-2 {
+    margin-right: 0.2rem;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto Flex';
+    font-weight: 500;
+    font-size: 0.8rem;
+    color: #FFFFFF;
+  }
+  .mobile .frame-12 {
+    border: 0.2rem solid #6C87A2;
+    margin: 0 1.3rem 5.3rem 1.1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3.9rem 2rem 5rem 2rem;
+    width: calc(100% - 2.4rem);
+    box-sizing: border-box;
+  }
+  .mobile .comfty-1 {
+    margin: 0 0 2.2rem 0.8rem;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Roboto Flex';
+    font-weight: 300;
+    font-size: 1.3rem;
+    color: #FFFFFF;
+  }
+  .mobile .enjoy-afree-offer-with-no-income-conditions-1 {
+    margin: 0 0 3.8rem 0.2rem;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto Flex';
+    font-weight: 400;
+    font-size: 1.3rem;
+    color: #FFFFFF;
+  }
+  .mobile .subject-to-making-at-least-one-payment-or-withdrawal-per-month-with-the-comfy-card-otherwise-3-per-month-1 {
+    align-self: flex-end;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto Flex';
+    font-weight: 100;
+    font-size: 1rem;
+    color: #FFFFFF;
+  }
+  .mobile .container-3 {
+    background: url('../assets/images/image.png') 50% / cover no-repeat;
+    margin: 0 0 0.4rem 1.3rem;
+    width: 10.3rem;
+    height: 7.6rem;
+  }
+  .mobile .frame-44 {
+    margin: 0 0.4rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: calc(100% - 0.8rem);
+    box-sizing: border-box;
+  }
+  .mobile .frame-45 {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .mobile .group-12 {
+    position: relative;
+    margin: 0.1rem 0.6rem 0.1rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 0.9rem 1.1rem;
+    width: 5.3rem;
+    box-sizing: border-box;
+  }
+  .mobile .ellipse-6 {
+    position: absolute;
+    left: 0rem;
+    top: 0rem;
+    right: 0rem;
+    bottom: 0rem;
+    height: 100%;
+  }
+  .mobile .team-and-condition {
+    position: relative;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Figma Hand', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 0.8rem;
+    color: #000000;
+  }
+  .mobile .group-13 {
+    position: relative;
+    margin: 0.3rem 0.6rem 0 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 0.9rem 1.1rem;
+    width: 5.3rem;
+    box-sizing: border-box;
+  }
+  .mobile .ellipse-61 {
+    position: absolute;
+    left: 0rem;
+    top: 0rem;
+    right: 0rem;
+    bottom: 0rem;
+    height: 100%;
+  }
+  .mobile .team-and-condition-1 {
+    position: relative;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Figma Hand', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 0.8rem;
+    color: #000000;
+  }
+  .mobile .group-14 {
+    position: relative;
+    margin: 0 0.3rem 0.3rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 0.9rem 1.1rem;
+    width: 5.3rem;
+    box-sizing: border-box;
+  }
+  .mobile .ellipse-62 {
+    position: absolute;
+    left: 0rem;
+    top: 0rem;
+    right: 0rem;
+    bottom: 0rem;
+    height: 100%;
+  }
+  .mobile .team-and-condition-2 {
+    position: relative;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Figma Hand', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 0.8rem;
+    color: #000000;
+  }
+  .mobile .group-15 {
+    position: relative;
+    margin-bottom: 0.3rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 0.9rem 1.1rem;
+    width: 5.3rem;
+    box-sizing: border-box;
+  }
+  .mobile .ellipse-63 {
+    position: absolute;
+    left: 0rem;
+    top: 0rem;
+    right: 0rem;
+    bottom: 0rem;
+    height: 100%;
+  }
+  .mobile .team-and-condition-3 {
+    position: relative;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Figma Hand', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 0.8rem;
+    color: #000000;
+  }
+  .mobile .frame-46 {
+    margin: 0 0 0.8rem 0.2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .mobile .subtitle {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 1rem;
+    color: #000000;
+  }
+  .mobile .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .mobile .container-1 {
+    margin: 0.3rem 0 0.1rem 0;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .mobile .container-2 {
+    margin: 0.3rem 0 1.2rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 1;
+    flex-basis: 13.2rem;
+    box-sizing: border-box;
+  }
+  .mobile .container-3 {
+    margin-bottom: 0.1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 1;
+    flex-basis: 13.2rem;
+    box-sizing: border-box;
+  }
