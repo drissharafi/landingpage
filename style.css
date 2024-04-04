@@ -2,18 +2,19 @@
 .navbar {
   /*display: flex;*/
   background-color: #021120;
+  height: 88px;
   
 
 }
 
 
-.navbar > div {
+navbar > div {
   background-color: #021120;
-  margin: 10px;
-  padding: 10px;
+  margin: 0px;
+  padding: 0px;
   font-size: 20px;
   color: antiquewhite;
-}
+  }
 .logo {
   background: url('./image/logo.png') 50% / cover no-repeat;
   width: 3.9rem;
@@ -67,10 +68,6 @@
   color: rgb(238, 217, 190);
   font-size: xx-large;
 }
-.why-riz-9-bank{
-  font-size: xx-large;
-}
-
 
 .middle-image-container {
   position: absolute;
@@ -81,6 +78,33 @@
 .width-nav{
   height: 5,5rem;
 }
+.why-riz-9-bank{
+  background-color: #021120;
+  color: antiquewhite;
+  font-size: xxx-large;
+  padding-left: 40%;
+}
+.card-body{
+  height: 150%;
+  background-color: #021120;
+}
+.card-body p{
+  color: antiquewhite;
+}
+.card-body h5{
+  color: antiquewhite;
+}
+#card-img{
+  height: 250px;
+  object-fit: cover;
+}
+.avantage2{
+  display:flex;
+  flex-direction: row;
+ 
+
+}
+
 /* desktop 
 @media screen and (min-width: 1024px) {
   .navbar {
